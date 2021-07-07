@@ -1,8 +1,12 @@
 # TEST-CASE-RoyGodsendSalomo
 This project is created for SDET intern test at tiket.com.
 
+Name : Roy Godsend Salomo 
+
 Language : Python (https://www.python.org/downloads/)
+
 Automation Tools : Selenium (https://www.selenium.dev/)
+
 Webdriver : Chromedriver (https://chromedriver.chromium.org/)
 
 ## How to run in your local
